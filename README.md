@@ -1,0 +1,2 @@
+# Infooggi
+Infooggi resize immagini
